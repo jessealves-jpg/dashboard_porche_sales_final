@@ -10,12 +10,11 @@ Dashboard interativo para análise de vendas de veículos Porsche, desenvolvido 
 
 ### Dashboard — Visão 1
 
-![Porsche Sales Dashboard - Visão 1](dashboard_1.png)
+![Dashboard Porsche - Visão 1](dashboard_1.jfif)
 
 ### Dashboard — Visão 2
 
-![Porsche Sales Dashboard - Visão 2](dashboard_2.png)
-
+![Dashboard Porsche - Visão 2](dashboard_2.jfif)
 ---
 
 ## 📊 Sobre o projeto
